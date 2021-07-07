@@ -1,0 +1,263 @@
+@media only screen and (min-width:200px) and (max-width:991px){
+    .background2 img {
+        height: 20rem;
+        width: 20rem;
+        top: -12rem;
+        right: 0rem;
+        position: absolute;
+        z-index: 0;
+    }
+    .back12 {
+        left: 3rem;
+    }
+    .iconp span {
+        font-size: 16px;
+    }
+    .respon1{
+        width: 96% !important;
+        font-size: 30px;
+    }
+    .respon2{
+        width: 120% !important;
+        position: absolute;
+        z-index: 1000;
+    }
+    .back12 button {
+        position: absolute;
+        bottom: -11rem;
+    }
+    .bb1{
+        display: none;
+    }
+    .brands img {
+        height: 90px;
+        width: 90px;
+        margin-top: 20px;
+    }
+    .section2 {
+
+        margin-top: 25rem;
+    }
+    .h1, h1 {
+        font-size: 30px;
+    }
+    
+    .text-left {
+
+        text-align: left !important;
+
+    }
+    .w-75 {
+
+        width: 124% !important;
+
+    }
+    .back3{
+        display: none;
+    }
+    .back4 {
+        height: 40rem;
+        width: 100%;
+        background-repeat: no-repeat;
+        margin-top: 150px;
+        margin-left: 81px;
+        margin-right: 90px;
+        width: 100% !important;
+    }
+    .section3 {
+        margin-top: -78px;
+    }
+
+    .section4 {
+        margin-top: 13.5rem;
+    }
+    .head2.d-flex {
+        display: block;
+    }
+    .div1 h2{
+        font-size: 20px;
+    }
+    .section4 {
+        margin: 0 2rem;
+        margin-top: 360px;
+        margin-right: 2rem;
+
+    }
+    .div1 {
+        width: 40%;
+        padding: 50px;
+    }
+    .div2{
+        margin-left: 2rem;
+    }
+
+    .body2.d-flex.mt-5 {
+        display: block !important;
+        margin-left: 3rem;
+    }
+
+    .body3.w-50 {
+        display: none;
+        margin-left: 3rem;
+    }
+
+    .body4.w-50 {
+        margin-left: 5rem;
+    }
+    .body4 h1{
+        width: 124% !important;
+    }
+    .section5 {
+        margin-top: -149px;
+    }
+    .body4 p{
+        width: 151% !important;
+    }
+    .spec1 p{
+        width: 105% !important;
+    }
+    .head1 p{
+        width: 105% !important;
+    }
+    .section6 {
+        margin: 0px 3rem;
+        margin-top: 80px;
+    }
+    .body5 p{
+        padding: 0px 0px !important;
+        padding-top: 10px !important;
+    }
+    .body6.d-flex {
+        display: block !important;
+    }
+    .body6 .fee3 {
+        width: 90%;
+    }
+
+    .pricecard.mb-5.d-flex.ml-5 {
+        display: block !important;
+    }
+    .section6 {
+
+        margin-top: 100px;
+    }
+    .body7{
+        display: none;
+    }
+    .body8.w-50 {
+        width: 90% !important;
+    }
+    .section80 {
+        margin: 0 2rem;
+
+    }
+    .sec81 {
+        height: 600px;
+    }
+    .sec82 h3{
+        font-size: 19px;
+        
+    }
+    .sec82 {
+
+        padding: 18px 30px;
+
+    }
+    
+    .sec81 {
+
+        display: block;
+        height: 540px;
+
+    }
+    #sec83 , #sec833, #sec832{
+        height: 500px !important;
+    }
+    .section9.d-flex {
+        display: block !important;
+    }
+    .down1 {
+        padding-top: 100px;
+        padding-left: 4rem;
+        width: 90%  !important;
+    }
+  
+    .card1.text-center.ml-5.mr-5 {
+        margin: 0 !important;
+        margin: 2rem 0 !important;
+    }
+    .pricecard.mb-5.d-flex.ml-5 {
+        margin: 0 2.5rem !important;
+        align-content: center;
+    }
+    ul{
+        display: none;
+    }
+    .linkw.mb-5 {
+        margin-top: -50px;
+    }
+    .text-left.text-success {
+        margin-top: 20px;
+    }
+}
+
+
+
+
+
+@media only screen and (min-width:200px) and (max-width:480px){
+
+
+    .back12 button , .iconp{
+       display: none !important;
+    }
+    .w-50.d-inline-block.back12 {
+        width: 70% !important;
+    }
+    .w-50.back4 {
+        margin-left: 30px !important;
+    }
+    .section4 {
+        margin-top: 934px;
+    }
+    .head2.d-flex {
+        display: block !important;
+    }
+    .div1 {
+        width: 105%;
+        padding: 24px;
+    }
+    .body4.w-50 {
+        margin-left: 2rem;
+    }
+    .text-center.m-4 {
+        margin-left: -3px !important;
+    }
+    .section6.sec7.text-center {
+        display: none;
+    }
+    .m-0.p-0.mt-4.ml-4 {
+        font-size: 17px !important;
+    }
+    .openion img {
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+    }
+    .section80 {
+        display: none;
+    }
+    .section9 {
+        height: 680px;
+    }
+    .fott span{
+        margin-left: 3px !important;
+    }
+    .linkw.mb-5 {
+        margin-top: -82px;
+    }
+
+
+
+
+}
